@@ -1,1 +1,1 @@
-{"root":["./src/db.ts","./src/index.ts","./src/middleware/errorhandler.ts","./src/models/linkmodel.ts","./src/routes/linkanalytics.ts","./src/routes/linkroutes.ts"],"version":"5.9.3"}
+{"root":["./src/db.ts","./src/index.ts","./src/middleware/errorhandler.ts","./src/models/linkmodel.ts","./src/routes/linkanalytics.ts","./src/routes/linkroutes.ts","./src/utils/redis.ts"],"version":"5.9.3"}
